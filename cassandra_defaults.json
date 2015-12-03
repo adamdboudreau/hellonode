@@ -1,0 +1,10 @@
+{
+  "local": {
+    "hostIps": ["127.0.0.1"],
+    "keyspace": "team_api_development"
+  },
+  "remote": {
+    "hostIps": ["52.23.196.119"],
+    "keyspace": "sportsnet_activation_dev"
+  }
+}
